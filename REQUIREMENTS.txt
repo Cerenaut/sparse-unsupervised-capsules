@@ -1,0 +1,6 @@
+h5py
+scipy
+numpy
+sklearn
+matplotlib
+tensorflow-gpu
