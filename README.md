@@ -46,7 +46,7 @@ python affnist_shift.py --data_dir=PATH_TO_AFFNIST_DIRECTORY \
 To generate the sharded affNIST test set to chunk the dataset over
 separate `TFRecords` files:
 ```
-python affnist_shift.py --data_dir=TFRecord \
+python affnist_shift.py --data_dir=PATH_TO_AFFNIST_DIRECTORY \
 --split=test --shift=0 --pad=0 --max_shard=80000
 ```
 
