@@ -1,6 +1,6 @@
 # Sparse Unsupervised Capsules
-The official source code for the SPARSECAPS model, based on the original [Capsules model](https://github.com/Sarasra/models/tree/master/research/capsules) by Sabour et al., used in the following paper:
-- "Sparse Unsupervised Capsules Generalize Better" by David Rawlinson, Abdelrahman Ahmed and Gideon Kowadlo.
+The official source code for the [SPARSECAPS model](https://arxiv.org/abs/1804.06094), based on the original [Capsules model](https://github.com/Sarasra/models/tree/master/research/capsules) by Sabour et al., used in the following paper:
+- ["Sparse Unsupervised Capsules Generalize Better"](https://arxiv.org/abs/1804.06094) by David Rawlinson, Abdelrahman Ahmed and Gideon Kowadlo.
 
 ## Requirements
 - GPU
