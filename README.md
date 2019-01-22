@@ -90,7 +90,7 @@ To generate the encoded representation for a sharded dataset, e.g. affNIST:
 ```
 python experiment.py --data_dir=/path/to/mnist_data/ --train=False \
 --checkpoint=/path/to/model.ckpt --summary_dir=/path/to/output \
---eval_set=test --eval_size=80000 --eval_shard=0
+--eval_set=test --eval_size=80000 --eval_shard=0 --pad=6
 ```
 
 #### Classification
